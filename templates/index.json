@@ -1,1 +1,397 @@
-{"sections":{"1664492475c4d59cbd":{"type":"section__cta","blocks":{"75a762f7-2faf-4078-9944-724f5cea4526":{"type":"separator","settings":{"height":50,"dividerHeight":0,"dividerWidth":50,"dividerColor":"#000000","position":"left"}},"28d6724e-0578-4e96-8086-6650ec13db77":{"type":"customTitle","settings":{"fullWidth":true,"content":"The Fruit Tree, Citrus, and Avocado Specialists!","textColor":"#ffffff","fontSize":"custom","customFontSize":64,"customFont":false,"customFontFamily":"roboto_n4"}},"16644924748fe753e0-1":{"type":"richText","settings":{"fullWidth":true,"maxBWidth":80,"content":"<p>For over 20 years now, our dedicated family has grown and planted Southern California’s most popular and rare fruit trees, flowering, fragrant, privacy, Persian and Mediterranean  plants.<\/p>","detectLists":true,"textColor":"#ffffff","fontFamily":"base","fontSize":"base"}}},"block_order":["75a762f7-2faf-4078-9944-724f5cea4526","28d6724e-0578-4e96-8086-6650ec13db77","16644924748fe753e0-1"],"settings":{"custom_id":"","displayFor":"display--both","layout":"default","nomargin":false,"scopedCSS":"","height":480,"padding":0,"lineMargin":0,"backgroundColor":"rgba(0,0,0,0)","backgroundImage":"shopify:\/\/shop_images\/Nursery-entrance.webp","backgroundImageUrl":"","backgroundPosition":"middle","backgroundFilter":"none","backdropIntensity":50,"parallax":true,"backgroundPattern":false,"overlayOpacity":0,"overlayColor":"#000000","contentColor":"rgba(0,0,0,0)","horizontalAlignment":"center","verticalAlignment":"top","maxContentWidth":100,"heading":"","headingColor":"rgba(0,0,0,0)","subheading":"","subheadingColor":"rgba(0,0,0,0)","subheadingPosition":"above","headingAlignment":"center"}},"16644988618f2d5d57":{"type":"section__image-text","blocks":{"1664498861754c8345-0":{"type":"title","settings":{"fullWidth":true,"content":"The Fruit Tree, Citrus, and Avocado Specialists!","textColor":"#000000","fontFamily":"title","fontSize":"big"}},"1664498861754c8345-1":{"type":"richText","settings":{"fullWidth":true,"maxBWidth":100,"content":"<p>For over 20 years now, our dedicated family has grown and planted Southern California’s most popular and rare fruit trees, flowering, fragrant, privacy, Persian and Mediterranean  plants.<\/p>","detectLists":true,"textColor":"#000000","fontFamily":"base","fontSize":"base"}},"1664498861754c8345-2":{"type":"button","disabled":true,"settings":{"fullWidth":true,"text":"Shop Our Wedding Collection","url":"","icon":"","iconPosition":"icon--left","wideButton":false,"buttonStyle":"primary","buttonType":"default","fontSize":"base","fontFamily":"base","animation":"none","animationDuration":1000,"animationInfinite":true}}},"block_order":["1664498861754c8345-0","1664498861754c8345-1","1664498861754c8345-2"],"disabled":true,"settings":{"custom_id":"","displayFor":"display--both","layout":"default","nomargin":false,"scopedCSS":"","height":420,"padding":0,"lineMargin":12,"backgroundColor":"{{ shop.brand.colors.primary[0].background }}","backgroundPosition":"middle","backgroundFilter":"none","backdropIntensity":50,"parallax":false,"backgroundPattern":false,"overlayOpacity":0,"overlayColor":"#000000","contentColor":"{{ shop.brand.colors.primary[0].background }}","horizontalAlignment":"center","verticalAlignment":"middle","imagePosition":"left","imageWidth":"6","image":"shopify:\/\/shop_images\/Nursery-entrance.webp","image_url":"","imageOverlayOpacity":0,"imageOverlayColor":"#000000"}},"d01d3f0d-189a-4cff-9e94-9db79464ec77":{"type":"section__featured-collection-tabs","blocks":{"7e6fdbb0-b1f2-406e-b465-247c655ea451":{"type":"fplistCollection","settings":{"collection":"fruit-trees","title":""}},"6ac5c998-b527-4bbf-815e-a60217f69506":{"type":"fplistCollection","settings":{"collection":"citrus-trees","title":""}}},"block_order":["7e6fdbb0-b1f2-406e-b465-247c655ea451","6ac5c998-b527-4bbf-815e-a60217f69506"],"settings":{"custom_id":"","displayFor":"display--both","layout":"default","nomargin":false,"scopedCSS":"","height":0,"padding":15,"backgroundColor":"rgba(0,0,0,0)","backgroundPosition":"middle","backgroundFilter":"none","backdropIntensity":50,"parallax":true,"backgroundPattern":false,"overlayOpacity":0,"overlayColor":"#000000","contentColor":"rgba(0,0,0,0)","horizontalAlignment":"center","verticalAlignment":"middle","heading":"FEATURED PLANTS AND FRUIT TREES","headingColor":"rgba(0,0,0,0)","subheading":"","subheadingColor":"rgba(0,0,0,0)","subheadingPosition":"above","headingAlignment":"center","prdtCount":15,"showMore":true,"showMoreText":"","showMoreAlignment":"center"}},"16645105542d013097":{"type":"section__cta","blocks":{"a8d5ec11-ac90-40a0-9309-b6233a504e9b":{"type":"separator","settings":{"height":30,"dividerHeight":0,"dividerWidth":50,"dividerColor":"#000000","position":"left"}},"16645105536cf78713-0":{"type":"title","settings":{"fullWidth":true,"content":"About Us","textColor":"#ffffff","fontFamily":"title","fontSize":"medium"}},"0cc4913f-5821-4740-83d8-d67c845eda50":{"type":"customRichText","settings":{"fullWidth":true,"maxBWidth":100,"content":"<p>Founder, Dr. Majid Jahanbin’s fell in love with plants at the age of 7, while visiting his dads farm in Abadan, Iran. He earned his Phd in Plant Science and Agricultural Engineering, from Bologna University in Italy. He now has over 50 years of professional experience, and hosts two popular radio shows, where he provides gardening advice and answers questions on Air in Farsi.<\/p><p>Ashkan Jahanbin is a horticulturalist and landscape consultant, with degrees in Environmental Horticulture and Landscape Architecture from California Polytechnic University in San Luis Obispo, Ca. He grew up around the nursery, learning about plants and their role in our lives. As the former nursery production manager at Cal Poly, he focused on growing organically. He’s now dedicated to Paradise Nursery. Growing plants and developing landscapes that are beautiful, enjoyable, and environmentally sustainable. From our family to yours, Happy Harvests!<\/p>","textColor":"#ffffff","fontSize":"base","customFontSize":16,"customFont":false,"customFontFamily":"roboto_n4"}}},"block_order":["a8d5ec11-ac90-40a0-9309-b6233a504e9b","16645105536cf78713-0","0cc4913f-5821-4740-83d8-d67c845eda50"],"settings":{"custom_id":"","displayFor":"display--both","layout":"default","nomargin":true,"scopedCSS":"","height":0,"padding":20,"lineMargin":0,"backgroundColor":"{{ shop.brand.colors.secondary[1].background }}","backgroundImageUrl":"","backgroundPosition":"middle","backgroundFilter":"none","backdropIntensity":50,"parallax":false,"backgroundPattern":false,"overlayOpacity":0,"overlayColor":"#000000","contentColor":"#000000","horizontalAlignment":"center","verticalAlignment":"middle","maxContentWidth":100,"heading":"","headingColor":"rgba(0,0,0,0)","subheading":"","subheadingColor":"rgba(0,0,0,0)","subheadingPosition":"above","headingAlignment":"center"}},"64ddf9c4-6431-4bac-9734-2fa7698f7464":{"type":"section__featured-collection","settings":{"custom_id":"","displayFor":"display--both","layout":"default","nomargin":false,"scopedCSS":"","height":390,"padding":35,"backgroundColor":"rgba(0,0,0,0)","heading":"Check out this section's heading","headingColor":"rgba(0,0,0,0)","subheading":"THIS IS A SUBHEADING","subheadingColor":"rgba(0,0,0,0)","subheadingPosition":"above","headingAlignment":"center","collection":"","productCount":4,"showMore":true,"showMoreText":"","showMoreAlignment":"center"}},"1664514253bdfb3651":{"type":"section__cta","blocks":{"1664514253db973254-0":{"type":"title","settings":{"fullWidth":true,"content":"Best Trees in Los Angeles","textColor":"#32689e","fontFamily":"title","fontSize":"medium"}},"1664514253db973254-1":{"type":"richText","settings":{"fullWidth":true,"maxBWidth":100,"content":"<p>We got tips and tricks when putting together your next flower arrangement—<br\/>whether it be for gifting, your home décor, a holiday gathering, or dinner party.<\/p>","detectLists":true,"textColor":"#353535","fontFamily":"base","fontSize":"base"}},"fab354a0-0e03-4a51-b7ec-c2202692e098":{"type":"blockNewsletter","settings":{"fullWidth":true,"newsletter":"shopify","inputMaxWidth":500,"inputText":"rgba(0,0,0,0)","inputBackground":"rgba(0,0,0,0)","email":"Your e-mail goes here","buttonType":"primary","submit":"Subscribe"}}},"block_order":["1664514253db973254-0","1664514253db973254-1","fab354a0-0e03-4a51-b7ec-c2202692e098"],"settings":{"custom_id":"","displayFor":"display--both","layout":"boxed","nomargin":false,"scopedCSS":"##scoped .s__holder {\n    border-radius: 20px;\n}","height":290,"padding":25,"lineMargin":12,"backgroundColor":"rgba(0,0,0,0)","backgroundImageUrl":"","backgroundPosition":"middle","backgroundFilter":"none","backdropIntensity":50,"parallax":false,"backgroundPattern":false,"overlayOpacity":65,"overlayColor":"#ffeaea","contentColor":"#32689e","horizontalAlignment":"center","verticalAlignment":"middle","maxContentWidth":100,"heading":"","headingColor":"rgba(0,0,0,0)","subheading":"","subheadingColor":"rgba(0,0,0,0)","subheadingPosition":"above","headingAlignment":"center"}}},"order":["1664492475c4d59cbd","16644988618f2d5d57","d01d3f0d-189a-4cff-9e94-9db79464ec77","16645105542d013097","64ddf9c4-6431-4bac-9734-2fa7698f7464","1664514253bdfb3651"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1664492475c4d59cbd": {
+      "type": "section__cta",
+      "blocks": {
+        "75a762f7-2faf-4078-9944-724f5cea4526": {
+          "type": "separator",
+          "settings": {
+            "height": 50,
+            "dividerHeight": 0,
+            "dividerWidth": 50,
+            "dividerColor": "#000000",
+            "position": "left"
+          }
+        },
+        "28d6724e-0578-4e96-8086-6650ec13db77": {
+          "type": "customTitle",
+          "settings": {
+            "fullWidth": true,
+            "content": "The Fruit Tree, Citrus, and Avocado Specialists!",
+            "textColor": "#ffffff",
+            "fontSize": "custom",
+            "customFontSize": 64,
+            "customFont": false,
+            "customFontFamily": "roboto_n4"
+          }
+        },
+        "16644924748fe753e0-1": {
+          "type": "richText",
+          "settings": {
+            "fullWidth": true,
+            "maxBWidth": 80,
+            "content": "<p>For over 20 years now, our dedicated family has grown and planted Southern California’s most popular and rare fruit trees, flowering, fragrant, privacy, Persian and Mediterranean  plants.</p>",
+            "detectLists": true,
+            "textColor": "#ffffff",
+            "fontFamily": "base",
+            "fontSize": "base"
+          }
+        }
+      },
+      "block_order": [
+        "75a762f7-2faf-4078-9944-724f5cea4526",
+        "28d6724e-0578-4e96-8086-6650ec13db77",
+        "16644924748fe753e0-1"
+      ],
+      "settings": {
+        "custom_id": "",
+        "displayFor": "display--both",
+        "layout": "default",
+        "nomargin": false,
+        "scopedCSS": "",
+        "height": 480,
+        "padding": 0,
+        "lineMargin": 0,
+        "backgroundColor": "rgba(0,0,0,0)",
+        "backgroundImage": "shopify://shop_images/Nursery-entrance.webp",
+        "backgroundImageUrl": "",
+        "backgroundPosition": "middle",
+        "backgroundFilter": "none",
+        "backdropIntensity": 50,
+        "parallax": true,
+        "backgroundPattern": false,
+        "overlayOpacity": 0,
+        "overlayColor": "#000000",
+        "contentColor": "rgba(0,0,0,0)",
+        "horizontalAlignment": "center",
+        "verticalAlignment": "top",
+        "maxContentWidth": 100,
+        "heading": "",
+        "headingColor": "rgba(0,0,0,0)",
+        "subheading": "",
+        "subheadingColor": "rgba(0,0,0,0)",
+        "subheadingPosition": "above",
+        "headingAlignment": "center"
+      }
+    },
+    "16644988618f2d5d57": {
+      "type": "section__image-text",
+      "blocks": {
+        "1664498861754c8345-0": {
+          "type": "title",
+          "settings": {
+            "fullWidth": true,
+            "content": "The Fruit Tree, Citrus, and Avocado Specialists!",
+            "textColor": "#000000",
+            "fontFamily": "title",
+            "fontSize": "big"
+          }
+        },
+        "1664498861754c8345-1": {
+          "type": "richText",
+          "settings": {
+            "fullWidth": true,
+            "maxBWidth": 100,
+            "content": "<p>For over 20 years now, our dedicated family has grown and planted Southern California’s most popular and rare fruit trees, flowering, fragrant, privacy, Persian and Mediterranean  plants.</p>",
+            "detectLists": true,
+            "textColor": "#000000",
+            "fontFamily": "base",
+            "fontSize": "base"
+          }
+        },
+        "1664498861754c8345-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "fullWidth": true,
+            "text": "Shop Our Wedding Collection",
+            "url": "",
+            "icon": "",
+            "iconPosition": "icon--left",
+            "wideButton": false,
+            "buttonStyle": "primary",
+            "buttonType": "default",
+            "fontSize": "base",
+            "fontFamily": "base",
+            "animation": "none",
+            "animationDuration": 1000,
+            "animationInfinite": true
+          }
+        }
+      },
+      "block_order": [
+        "1664498861754c8345-0",
+        "1664498861754c8345-1",
+        "1664498861754c8345-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "custom_id": "",
+        "displayFor": "display--both",
+        "layout": "default",
+        "nomargin": false,
+        "scopedCSS": "",
+        "height": 420,
+        "padding": 0,
+        "lineMargin": 12,
+        "backgroundColor": "{{ shop.brand.colors.primary[0].background }}",
+        "backgroundPosition": "middle",
+        "backgroundFilter": "none",
+        "backdropIntensity": 50,
+        "parallax": false,
+        "backgroundPattern": false,
+        "overlayOpacity": 0,
+        "overlayColor": "#000000",
+        "contentColor": "{{ shop.brand.colors.primary[0].background }}",
+        "horizontalAlignment": "center",
+        "verticalAlignment": "middle",
+        "imagePosition": "left",
+        "imageWidth": "6",
+        "image": "shopify://shop_images/Nursery-entrance.webp",
+        "image_url": "",
+        "imageOverlayOpacity": 0,
+        "imageOverlayColor": "#000000"
+      }
+    },
+    "d01d3f0d-189a-4cff-9e94-9db79464ec77": {
+      "type": "section__featured-collection-tabs",
+      "blocks": {
+        "7e6fdbb0-b1f2-406e-b465-247c655ea451": {
+          "type": "fplistCollection",
+          "settings": {
+            "collection": "fruit-trees-for-sale",
+            "title": ""
+          }
+        },
+        "6ac5c998-b527-4bbf-815e-a60217f69506": {
+          "type": "fplistCollection",
+          "settings": {
+            "collection": "citrus-trees",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "7e6fdbb0-b1f2-406e-b465-247c655ea451",
+        "6ac5c998-b527-4bbf-815e-a60217f69506"
+      ],
+      "settings": {
+        "custom_id": "",
+        "displayFor": "display--both",
+        "layout": "default",
+        "nomargin": false,
+        "scopedCSS": "",
+        "height": 0,
+        "padding": 15,
+        "backgroundColor": "rgba(0,0,0,0)",
+        "backgroundPosition": "middle",
+        "backgroundFilter": "none",
+        "backdropIntensity": 50,
+        "parallax": true,
+        "backgroundPattern": false,
+        "overlayOpacity": 0,
+        "overlayColor": "#000000",
+        "contentColor": "rgba(0,0,0,0)",
+        "horizontalAlignment": "center",
+        "verticalAlignment": "middle",
+        "heading": "FEATURED PLANTS AND FRUIT TREES",
+        "headingColor": "rgba(0,0,0,0)",
+        "subheading": "",
+        "subheadingColor": "rgba(0,0,0,0)",
+        "subheadingPosition": "above",
+        "headingAlignment": "center",
+        "prdtCount": 15,
+        "showMore": true,
+        "showMoreText": "",
+        "showMoreAlignment": "center"
+      }
+    },
+    "16645105542d013097": {
+      "type": "section__cta",
+      "blocks": {
+        "a8d5ec11-ac90-40a0-9309-b6233a504e9b": {
+          "type": "separator",
+          "settings": {
+            "height": 30,
+            "dividerHeight": 0,
+            "dividerWidth": 50,
+            "dividerColor": "#000000",
+            "position": "left"
+          }
+        },
+        "16645105536cf78713-0": {
+          "type": "title",
+          "settings": {
+            "fullWidth": true,
+            "content": "About Us",
+            "textColor": "#ffffff",
+            "fontFamily": "title",
+            "fontSize": "medium"
+          }
+        },
+        "0cc4913f-5821-4740-83d8-d67c845eda50": {
+          "type": "customRichText",
+          "settings": {
+            "fullWidth": true,
+            "maxBWidth": 100,
+            "content": "<p>Founder, Dr. Majid Jahanbin’s fell in love with plants at the age of 7, while visiting his dads farm in Abadan, Iran. He earned his Phd in Plant Science and Agricultural Engineering, from Bologna University in Italy. He now has over 50 years of professional experience, and hosts two popular radio shows, where he provides gardening advice and answers questions on Air in Farsi.</p><p>Ashkan Jahanbin is a horticulturalist and landscape consultant, with degrees in Environmental Horticulture and Landscape Architecture from California Polytechnic University in San Luis Obispo, Ca. He grew up around the nursery, learning about plants and their role in our lives. As the former nursery production manager at Cal Poly, he focused on growing organically. He’s now dedicated to Paradise Nursery. Growing plants and developing landscapes that are beautiful, enjoyable, and environmentally sustainable. From our family to yours, Happy Harvests!</p>",
+            "textColor": "#ffffff",
+            "fontSize": "base",
+            "customFontSize": 16,
+            "customFont": false,
+            "customFontFamily": "roboto_n4"
+          }
+        }
+      },
+      "block_order": [
+        "a8d5ec11-ac90-40a0-9309-b6233a504e9b",
+        "16645105536cf78713-0",
+        "0cc4913f-5821-4740-83d8-d67c845eda50"
+      ],
+      "settings": {
+        "custom_id": "",
+        "displayFor": "display--both",
+        "layout": "default",
+        "nomargin": true,
+        "scopedCSS": "",
+        "height": 0,
+        "padding": 20,
+        "lineMargin": 0,
+        "backgroundColor": "{{ shop.brand.colors.secondary[1].background }}",
+        "backgroundImageUrl": "",
+        "backgroundPosition": "middle",
+        "backgroundFilter": "none",
+        "backdropIntensity": 50,
+        "parallax": false,
+        "backgroundPattern": false,
+        "overlayOpacity": 0,
+        "overlayColor": "#000000",
+        "contentColor": "#000000",
+        "horizontalAlignment": "center",
+        "verticalAlignment": "middle",
+        "maxContentWidth": 100,
+        "heading": "",
+        "headingColor": "rgba(0,0,0,0)",
+        "subheading": "",
+        "subheadingColor": "rgba(0,0,0,0)",
+        "subheadingPosition": "above",
+        "headingAlignment": "center"
+      }
+    },
+    "64ddf9c4-6431-4bac-9734-2fa7698f7464": {
+      "type": "section__featured-collection",
+      "settings": {
+        "custom_id": "",
+        "displayFor": "display--both",
+        "layout": "default",
+        "nomargin": false,
+        "scopedCSS": "",
+        "height": 390,
+        "padding": 35,
+        "backgroundColor": "rgba(0,0,0,0)",
+        "heading": "Check out this section's heading",
+        "headingColor": "rgba(0,0,0,0)",
+        "subheading": "THIS IS A SUBHEADING",
+        "subheadingColor": "rgba(0,0,0,0)",
+        "subheadingPosition": "above",
+        "headingAlignment": "center",
+        "collection": "",
+        "productCount": 4,
+        "showMore": true,
+        "showMoreText": "",
+        "showMoreAlignment": "center"
+      }
+    },
+    "1664514253bdfb3651": {
+      "type": "section__cta",
+      "blocks": {
+        "1664514253db973254-0": {
+          "type": "title",
+          "settings": {
+            "fullWidth": true,
+            "content": "Best Trees in Los Angeles",
+            "textColor": "#32689e",
+            "fontFamily": "title",
+            "fontSize": "medium"
+          }
+        },
+        "1664514253db973254-1": {
+          "type": "richText",
+          "settings": {
+            "fullWidth": true,
+            "maxBWidth": 100,
+            "content": "<p>We got tips and tricks when putting together your next flower arrangement—<br/>whether it be for gifting, your home décor, a holiday gathering, or dinner party.</p>",
+            "detectLists": true,
+            "textColor": "#353535",
+            "fontFamily": "base",
+            "fontSize": "base"
+          }
+        },
+        "fab354a0-0e03-4a51-b7ec-c2202692e098": {
+          "type": "blockNewsletter",
+          "settings": {
+            "fullWidth": true,
+            "newsletter": "shopify",
+            "inputMaxWidth": 500,
+            "inputText": "rgba(0,0,0,0)",
+            "inputBackground": "rgba(0,0,0,0)",
+            "email": "Your e-mail goes here",
+            "buttonType": "primary",
+            "submit": "Subscribe"
+          }
+        }
+      },
+      "block_order": [
+        "1664514253db973254-0",
+        "1664514253db973254-1",
+        "fab354a0-0e03-4a51-b7ec-c2202692e098"
+      ],
+      "settings": {
+        "custom_id": "",
+        "displayFor": "display--both",
+        "layout": "boxed",
+        "nomargin": false,
+        "scopedCSS": "##scoped .s__holder {\n    border-radius: 20px;\n}",
+        "height": 290,
+        "padding": 25,
+        "lineMargin": 12,
+        "backgroundColor": "rgba(0,0,0,0)",
+        "backgroundImageUrl": "",
+        "backgroundPosition": "middle",
+        "backgroundFilter": "none",
+        "backdropIntensity": 50,
+        "parallax": false,
+        "backgroundPattern": false,
+        "overlayOpacity": 65,
+        "overlayColor": "#ffeaea",
+        "contentColor": "#32689e",
+        "horizontalAlignment": "center",
+        "verticalAlignment": "middle",
+        "maxContentWidth": 100,
+        "heading": "",
+        "headingColor": "rgba(0,0,0,0)",
+        "subheading": "",
+        "subheadingColor": "rgba(0,0,0,0)",
+        "subheadingPosition": "above",
+        "headingAlignment": "center"
+      }
+    }
+  },
+  "order": [
+    "1664492475c4d59cbd",
+    "16644988618f2d5d57",
+    "d01d3f0d-189a-4cff-9e94-9db79464ec77",
+    "16645105542d013097",
+    "64ddf9c4-6431-4bac-9734-2fa7698f7464",
+    "1664514253bdfb3651"
+  ]
+}
